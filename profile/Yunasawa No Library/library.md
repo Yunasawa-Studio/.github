@@ -4,6 +4,7 @@
 <h2> ⭐ Content </h2>
 
 <ul>
-  <li> <a href="https://github.com/Yunasawa/YNL-Editor"><b>YNL - Editor:</b></a>  </li>
-  
+  <li> <a href="https://github.com/Yunasawa/YNL-Editor"><b>YNL - Editor:</b></a> Contains tools, extensions for Unity Editor and interfaces works on Editor. </li>
+  <li> <a href="https://github.com/Yunasawa/YNL-Utilities"><b>YNL - Utilities:</b></a> Contains extensions, utilities for Unity works on both Editor and Built.</li>
+  <li> <a href="https://github.com/Yunasawa/YNL-Audio"><b>YNL - Audio:</b></a> Contains extentions for Audio system. </li>
 </ul>
