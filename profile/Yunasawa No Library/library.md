@@ -8,3 +8,7 @@
   <li> <a href="https://github.com/Yunasawa/YNL-Utilities"><b>YNL - Utilities:</b></a> Contains extensions, utilities for Unity works on both Editor and Built.</li>
   <li> <a href="https://github.com/Yunasawa/YNL-Audio"><b>YNL - Audio:</b></a> Contains extentions for Audio system. </li>
 </ul>
+
+<ul>
+  <li> <a href="https://github.com/Yunasawa-Studio/YNL-Simple-AI-System"><b>YNL - Simple AI System:</b></a> A simple AI system to handle objects behaviours. </li>
+</ul>
