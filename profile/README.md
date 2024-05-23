@@ -6,7 +6,9 @@
 > Welcome to <a href="https://github.com/Yunasawa-Studio"><b> Yunasawa Studio</b></a>! We're a passionate group of developers who love creating Unity Editor tools, extensions, utilities, and Unity Game prototypes. 
 > Whether you're a seasoned developer or just starting out, you've come to the right place.
 > 
-> Our mission is to empower Unity developers by providing high-quality tools and resources. Here's what you need to know about our organization:
+> Our mission is to empower Unity developers by providing high-quality tools and resources.
+>
+> <b><i>Yunasawa Studio is always welcome! If you are a developer who loves creating tools, extensions or prototypes, fell free to join us and satisfy that passion.</i></b>
 
 <h2> ⭐ Library </h2>
 
@@ -16,4 +18,6 @@
 </ul>
 
 <h2> ⭐ Contributors </h2>
-
+<ul>
+  <li> <a href="https://github.com/Yunasawa">Yunasawa</a>: <i> "Coding up cool tools for the digital toolbox" </i> </li>
+</ul>
