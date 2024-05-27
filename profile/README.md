@@ -20,4 +20,5 @@
 <h2> ⭐ Contributors </h2>
 <ul>
   <li> <a href="https://github.com/Yunasawa">Yunasawa</a>: <i> "Coding up cool tools for the digital toolbox" </i> </li>
+  <li> <a href="https://github.com/KhoaConCa">YinLin</a>: <i> "Where Code Meets Quests, and Databases Unfold Secrets." </i> </li>
 </ul>
