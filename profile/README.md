@@ -1,4 +1,5 @@
-<div align="center"><h1><img width="70px" align="center" src="https://github.com/Yunasawa-Studio/.github/assets/113672166/74148d38-36d0-4022-b4cc-c7516cdb6e34" alt="script"> Yunasawa Studio </h1></div>
+<!--<div align="center"><h1><img width="70px" align="center" src="https://github.com/Yunasawa-Studio/.github/assets/113672166/74148d38-36d0-4022-b4cc-c7516cdb6e34" alt="script"> Yunasawa Studio </h1></div>-->
+<img src="https://github.com/user-attachments/assets/6f246636-2b7f-4db2-b532-31018dfe9d1a"/>
 
 <h2> ⭐ About </h2>
 
