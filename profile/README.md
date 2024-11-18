@@ -11,7 +11,7 @@
 >
 > <b><i>Yunasawa Studio is always welcome! If you are a developer who loves creating tools, extensions or prototypes, fell free to join us and satisfy that passion.</i></b>
 
-<details><summary><h2> ⭐ Contents </h2></summary>
+<h2> ⭐ Contents </h2>
 
 <h3> <img align="upper" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/> Unity Tools, Utilities and Extensions</h3>
 
@@ -50,13 +50,9 @@
  <li> <a href=""><b>YNG - Zenoe: To the Other Side:</b></a><i> (Private) An Action-RPG game made for learning and practicing purpose. With some ideas from GI, PGR, Minecraft Dungeons, ect, this may contains so many techniques and systems. </i></li>
 </ul>
 
-</details>
 
-
-<details>
-<summary><h2> ⭐ Contributors </h2></summary>
+<h2> ⭐ Contributors </h2>
 <ul>
   <li> <a href="https://github.com/Yunasawa">Yunasawa</a> <kbd> "Coding up cool tools for the digital toolbox" </kbd> </li>
   <!--<li> <a href="https://github.com/KhoaConCa">YinLin</a>: <i> "Where Code Meets Quests, and Databases Unfold Secrets." </i> </li>-->
 </ul>
-</details>
